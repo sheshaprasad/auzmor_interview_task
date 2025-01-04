@@ -26,4 +26,5 @@ To Run the App
 flutter run
 
 To Get a Release version of the app run the below command in project's terminal
+
 flutter build apk --release
